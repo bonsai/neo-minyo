@@ -1,0 +1,28 @@
+{
+  "playlist": {
+    "name": "neo民謡 — 1980年以降の民謡アレンジ",
+    "description": "1980年以降にアレンジ・録音された民謡（neo民謡）を集めたプレイリスト。民謡クルセイダーズを中心に、すずめのティアーズ、中西レモン、東京民謡倶楽部、元ちとせ、朝崎郁恵、吉田兄弟を収録。",
+    "platform": "Spotify",
+    "spotify_id": "4LpEsF5fF76iyNWIBJ9Vpp",
+    "spotify_url": "https://open.spotify.com/playlist/4LpEsF5fF76iyNWIBJ9Vpp",
+    "track_count": 14,
+    "total_duration_ms": 4033290,
+    "saved_at": "2026-11-01"
+  },
+  "tracks": [
+    {"position": 1, "title": "Kaigara Bushi", "artists": ["Minyo Crusaders"], "duration_ms": 325026, "spotify_uri": "spotify:track:1h3R8qQQg7XXxJXtXC2K1F", "spotify_url": "https://open.spotify.com/track/1h3R8qQQg7XXxJXtXC2K1F"},
+    {"position": 2, "title": "花笠音頭", "artists": ["Minyo Crusaders", "Frente Cumbiero"], "duration_ms": 264072, "spotify_uri": "spotify:track:3BAta6OAHHvajjJpYU7JR2", "spotify_url": "https://open.spotify.com/track/3BAta6OAHHvajjJpYU7JR2"},
+    {"position": 3, "title": "こきりこ節", "artists": ["Minyo Crusaders", "Frente Cumbiero"], "duration_ms": 228070, "spotify_uri": "spotify:track:24ghwwr831zVRh3MVR4kLy", "spotify_url": "https://open.spotify.com/track/24ghwwr831zVRh3MVR4kLy"},
+    {"position": 4, "title": "真室川音頭／Mamurogawa Ondo", "artists": ["Minyo Crusaders"], "duration_ms": 280866, "spotify_uri": "spotify:track:0VoxA3Nbp1qr8j4EAE5oQy", "spotify_url": "https://open.spotify.com/track/0VoxA3Nbp1qr8j4EAE5oQy"},
+    {"position": 5, "title": "Soran Bushi", "artists": ["Minyo Crusaders"], "duration_ms": 311520, "spotify_uri": "spotify:track:4fuKIfk85rmXqI0N7zkWJi", "spotify_url": "https://open.spotify.com/track/4fuKIfk85rmXqI0N7zkWJi"},
+    {"position": 6, "title": "炭坑節／Tanko Bushi", "artists": ["Minyo Crusaders"], "duration_ms": 336653, "spotify_uri": "spotify:track:35mLV73W5FSwegm27gBqLL", "spotify_url": "https://open.spotify.com/track/35mLV73W5FSwegm27gBqLL"},
+    {"position": 7, "title": "しげさ節", "artists": ["Minyo Crusaders", "朝倉さや"], "duration_ms": 322309, "spotify_uri": "spotify:track:3Xio3eAEouik470y68eUZ2", "spotify_url": "https://open.spotify.com/track/3Xio3eAEouik470y68eUZ2"},
+    {"position": 8, "title": "Zaraita Bushi", "artists": ["Suzumeno Tears", "影山朋子"], "duration_ms": 330466, "spotify_uri": "spotify:track:56e0xfJExyjCgktRsgRFrv", "spotify_url": "https://open.spotify.com/track/56e0xfJExyjCgktRsgRFrv"},
+    {"position": 9, "title": "Itokuri Bushi", "artists": ["Suzumeno Tears", "影山朋子"], "duration_ms": 293433, "spotify_uri": "spotify:track:56TxE9ZmdPtd2Y7qgQQml0", "spotify_url": "https://open.spotify.com/track/56TxE9ZmdPtd2Y7qgQQml0"},
+    {"position": 10, "title": "やっとこせ (feat. すずめのティアーズ)", "artists": ["Remon Nakanishi", "Suzumeno Tears"], "duration_ms": 226808, "spotify_uri": "spotify:track:2NZMPn4wiLFaVA0HsKn8Qp", "spotify_url": "https://open.spotify.com/track/2NZMPn4wiLFaVA0HsKn8Qp"},
+    {"position": 11, "title": "木頭音頭", "artists": ["東京民謡倶楽部"], "duration_ms": 190246, "spotify_uri": "spotify:track:0PzvQxL6KFI9We0sWdoqAM", "spotify_url": "https://open.spotify.com/track/0PzvQxL6KFI9We0sWdoqAM"},
+    {"position": 12, "title": "豊年節", "artists": ["Chitose Hajime", "Minyo Crusaders"], "duration_ms": 345600, "spotify_uri": "spotify:track:0e9exjDmsLwemmClKfZ6pJ", "spotify_url": "https://open.spotify.com/track/0e9exjDmsLwemmClKfZ6pJ"},
+    {"position": 13, "title": "あはがり", "artists": ["朝崎郁恵"], "duration_ms": 308825, "spotify_uri": "spotify:track:7CjH3p4lv4KDqBPsoWLh8W", "spotify_url": "https://open.spotify.com/track/7CjH3p4lv4KDqBPsoWLh8W"},
+    {"position": 14, "title": "津軽よされ節", "artists": ["Yoshida Brothers"], "duration_ms": 269396, "spotify_uri": "spotify:track:5Qq0H1DZKSbV8WkDB0ogDH", "spotify_url": "https://open.spotify.com/track/5Qq0H1DZKSbV8WkDB0ogDH"}
+  ]
+}
